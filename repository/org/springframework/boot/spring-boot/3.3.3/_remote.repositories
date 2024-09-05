@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Aug 22 16:25:37 CST 2024
+#Fri Aug 30 16:43:41 CST 2024
+spring-boot-3.3.3-javadoc.jar>central=
 spring-boot-3.3.3.pom>central=
 spring-boot-3.3.3.jar>central=
+spring-boot-3.3.3-sources.jar>central=

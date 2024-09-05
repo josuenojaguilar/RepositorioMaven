@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Aug 22 16:25:37 CST 2024
+#Fri Aug 30 09:32:59 CST 2024
+spring-beans-6.1.12-javadoc.jar>central=
+spring-beans-6.1.12-sources.jar>central=
 spring-beans-6.1.12.jar>central=
 spring-beans-6.1.12.pom>central=
